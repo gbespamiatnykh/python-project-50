@@ -1,16 +1,17 @@
-import json
 from typing import Any
 
+from gendiff.diff.parser import parse_file
 
-def bool_to_lower_str(value) -> str | Any:
+
+def bool_to_lower_str(value: Any) -> Any:
     if isinstance(value, bool):
         return str(value).lower()
     return value
 
 
 def generate_diff(first_file: str, second_file: str) -> str:
-    parsed_data1 = json.load(open(first_file))
-    parsed_data2 = json.load(open(second_file))
+    parsed_data1 = parse_file(first_file)
+    parsed_data2 = parse_file(second_file)
     difference = []
     merged_keys = sorted(set(parsed_data1) | set(parsed_data2))
     for key in merged_keys:

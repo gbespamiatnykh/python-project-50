@@ -10,7 +10,13 @@ Run Command:
 gendiff
 ```
 <details>
-<summary>generate-diff demo</summary>
+<summary>gendiff json demo</summary>
 
-[![asciicast](https://asciinema.org/a/3Sc4v8rbAECEUtu2PTqoO1EIj.svg)](https://asciinema.org/a/3Sc4v8rbAECEUtu2PTqoO1EIj)
+[![asciicast](https://asciinema.org/a/BX7WZNQ2VSCGR59QJ5gZoV9bT.svg)](https://asciinema.org/a/BX7WZNQ2VSCGR59QJ5gZoV9bT)
+</details>
+
+<details>
+<summary>gendiff yml demo</summary>
+
+[![asciicast](https://asciinema.org/a/yuiU7rOxwkx9Kqwi477DSL239.svg)](https://asciinema.org/a/yuiU7rOxwkx9Kqwi477DSL239)
 </details>
