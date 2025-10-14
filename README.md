@@ -20,3 +20,9 @@ gendiff
 
 [![asciicast](https://asciinema.org/a/yuiU7rOxwkx9Kqwi477DSL239.svg)](https://asciinema.org/a/yuiU7rOxwkx9Kqwi477DSL239)
 </details>
+
+<details>
+<summary>gendiff stylish demo</summary>
+
+[![asciicast](https://asciinema.org/a/j9Xooy966SSX0Cit8OL9YiD1Y.svg)](https://asciinema.org/a/j9Xooy966SSX0Cit8OL9YiD1Y)
+</details>
