@@ -3,3 +3,5 @@ __pycache__
 *.pyc
 *_cache/
 .python-version
+.coverage
+coverage.xml
