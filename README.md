@@ -22,13 +22,19 @@ gendiff
 </details>
 
 <details>
-<summary>gendiff -f stylish demo</summary>
+<summary>gendiff --format stylish demo</summary>
 
 [![asciicast](https://asciinema.org/a/j9Xooy966SSX0Cit8OL9YiD1Y.svg)](https://asciinema.org/a/j9Xooy966SSX0Cit8OL9YiD1Y)
 </details>
 
 <details>
-<summary>gendiff -f plain demo</summary>
+<summary>gendiff --format plain demo</summary>
 
-[![asciicast](https://asciinema.org/a/EPoH7eWlu08BgvPwfvhdwoHhc.svg)](https://asciinema.org/a/EPoH7eWlu08BgvPwfvhdwoHhc)
+[![asciicast](https://asciinema.org/a/5W6udTbud3x69g2A2bSf5bTgh.svg)](https://asciinema.org/a/5W6udTbud3x69g2A2bSf5bTgh)
+</details>
+
+<details>
+<summary>gendiff --format json demo</summary>
+
+[![asciicast](https://asciinema.org/a/DYZaFCQrGQfOXMR8hM9J6cZM5.svg)](https://asciinema.org/a/DYZaFCQrGQfOXMR8hM9J6cZM5)
 </details>
