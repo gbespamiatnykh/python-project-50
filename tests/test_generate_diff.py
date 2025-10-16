@@ -37,6 +37,12 @@ from gendiff.diff.parser import read_file
             "tests/test_data/expected_plain_diff.txt",
             "plain",
         ),
+        (
+            "tests/test_data/file3.json",
+            "tests/test_data/file4.json",
+            "tests/test_data/expected_json_diff.txt",
+            "json",
+        ),
     ],
 )
 def test_generate_diff(file1, file2, expected_diff_file, format):
