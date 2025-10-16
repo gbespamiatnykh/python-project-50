@@ -1,10 +1,30 @@
+# GENDIFF
+Compares two configuration files and shows a difference.
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/gbespamiatnykh/python-project-50/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/gbespamiatnykh/python-project-50/actions)
+
+### CI and SonarQube status:
 [![Python CI](https://github.com/gbespamiatnykh/python-project-50/actions/workflows/build.yml/badge.svg)](https://github.com/gbespamiatnykh/python-project-50/actions/workflows/build.yml)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-50&metric=coverage)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-50)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=gbespamiatnykh_python-project-50&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=gbespamiatnykh_python-project-50)
 
-### generate-diff
+## Requirements
+- Python >= 3.12
+- `uv` tool
+
+## Setup
+```bash
+make install
+```
+```bash
+make build
+```
+```bash
+make package-install
+```
+
+## Generate diff
 Run Command:
 ```bash
 gendiff
