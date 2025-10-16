@@ -10,19 +10,25 @@ Run Command:
 gendiff
 ```
 <details>
-<summary>gendiff json demo</summary>
+<summary>gendiff .json demo</summary>
 
 [![asciicast](https://asciinema.org/a/BX7WZNQ2VSCGR59QJ5gZoV9bT.svg)](https://asciinema.org/a/BX7WZNQ2VSCGR59QJ5gZoV9bT)
 </details>
 
 <details>
-<summary>gendiff yml demo</summary>
+<summary>gendiff .yaml demo</summary>
 
 [![asciicast](https://asciinema.org/a/yuiU7rOxwkx9Kqwi477DSL239.svg)](https://asciinema.org/a/yuiU7rOxwkx9Kqwi477DSL239)
 </details>
 
 <details>
-<summary>gendiff stylish demo</summary>
+<summary>gendiff -f stylish demo</summary>
 
 [![asciicast](https://asciinema.org/a/j9Xooy966SSX0Cit8OL9YiD1Y.svg)](https://asciinema.org/a/j9Xooy966SSX0Cit8OL9YiD1Y)
+</details>
+
+<details>
+<summary>gendiff -f plain demo</summary>
+
+[![asciicast](https://asciinema.org/a/EPoH7eWlu08BgvPwfvhdwoHhc.svg)](https://asciinema.org/a/EPoH7eWlu08BgvPwfvhdwoHhc)
 </details>
